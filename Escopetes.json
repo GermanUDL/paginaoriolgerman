@@ -1,0 +1,66 @@
+[
+    { 
+    "id": 1,
+        "titulo": "Winchester SX4",
+        "srcimg": "https://armerialebrijano.es/wp-content/uploads/2018/11/escopeta-winchester-sx4-camo-mobuc.jpg",
+        "alt": "Winchester SX4",
+        "texto": "31,99€"
+    },
+    { 
+    "id": 2,
+        "titulo": "Fabarm Elos D2",
+        "srcimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0k92jQqicTqoLa7dLz3Oawl4GD1SIgACDUvyzH87q2COM8a1ZXEHBWTxEOgBzSI9Qck&usqp=CAU",
+        "alt": "Fabarm Elos D2",
+        "texto": "27,49€"
+    },
+    { 
+    "id": 3,
+        "titulo": "CZ-USA CZ 628",
+        "srcimg": "https://czgunshop.com/wp-content/uploads/2021/03/CZ06574_1-2.jpg",
+        "alt": "CZ-USA CZ 628",
+        "texto": "28,89€"
+    },
+    { 
+    "id": 4,
+        "titulo": "F.A.I.R Inside",
+        "srcimg": "http://www.ibericadearmerias.com/650/fair-iside-iberica-12-20.jpg",
+        "alt": "F.A.I.R Inside",
+        "texto": "34,99€"
+    },
+    { 
+    "id": 5,
+        "titulo": "Browming Citori CX",
+        "srcimg": "https://browningarmsshop.com/wp-content/uploads/2022/07/BROWNING-CITORI-CX-WHITE-.jpg",
+        "alt": "Browming Citori CX",
+        "texto": "42,99€"
+    },
+    { 
+    "id": 6,
+        "titulo": "Beretta A3000",
+        "srcimg": "https://scheels.scene7.com/is/image/Scheels/08244293807_1?wid=500&hei=500&qlt=60",
+        "alt": "Beretta A3000",
+        "texto": "29,49€"
+    },
+    { 
+    "id": 7,
+        "titulo": "Remington Model 31",
+        "srcimg": "https://www.legacy-collectibles.com/media/catalog/product/cache/79a015b0686a9fbe981cff5bfc43588b/i/m/img_7809_5.jpg",
+        "alt": "Remington Model 31",
+        "texto": "33,99€"
+    },
+    { 
+    "id": 8,
+        "titulo": "Mossberg 500",
+        "srcimg": "https://upload.wikimedia.org/wikipedia/commons/d/dd/PEO_Mossberg_590A1.jpg",
+        "alt": "Mossberg 500",
+        "texto": "36,99€"
+    },
+    { 
+    "id": 9,
+        "titulo": "TriStar TT-15",
+        "srcimg": "https://www.armerialisard.com/shop/8504-large_default/escopeta-blaser-f3-trap-espana.jpg",
+        "alt": "TriStar TT-15",
+        "texto": "25,99€"
+    }
+        
+]

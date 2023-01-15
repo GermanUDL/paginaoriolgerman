@@ -1,0 +1,66 @@
+[
+    { 
+    "id": 1,
+        "titulo": "Winchester Ammo",
+        "srcimg": "https://i0.wp.com/1.bp.blogspot.com/-_0m3J-N68Iw/YAw8inRwxmI/AAAAAAAHitk/hzg65gh9_Xo2ZnE7yGvFu_1Nuw2_skj9QCLcBGAsYHQ/s1600/Winchester-Ammunition-01.jpg?ssl=1",
+        "alt": "Winchester Ammo",
+        "texto": "8,99€"
+    },
+    { 
+    "id": 2,
+        "titulo": "Colt Ammo",
+        "srcimg": "https://cdn1.epicgames.com/ue/product/Screenshot/AmmunitionPackageScreen11-1920x1080-7bed297384c34df13fe5f3e1aa8e7881.jpg?resize=1&w=1920",
+        "alt": "Colt Ammo",
+        "texto": "9,99€"
+    },
+    { 
+    "id": 3,
+        "titulo": "Legal Ammo",
+        "srcimg": "https://img2.cgtrader.com/items/2511004/9afb483eb5/large/9mm-pistol-ammunition-pack-3d-model-low-poly-fbx.jpg",
+        "alt": "Legal Ammo",
+        "texto": "9,99€"
+    },
+    { 
+    "id": 4,
+        "titulo": "American Eagle Ammo",
+        "srcimg": "https://packageinspiration.com/wp-content/uploads/2014/10/American-Eagle-BulletsMAIN.jpg",
+        "alt": "American Eagle Ammo",
+        "texto": "15,99€"
+    },
+    { 
+    "id": 5,
+        "titulo": "Remington Ammo",
+        "srcimg": "https://palmettostatearmory.com/media/catalog/product/cache/7af8331bf1196ca28793bd1e8f6ecc7b/7/8/785342-Remington_Ultimate_Defense_Combo_Pack_3_410_Gauge_Ammo_000_Buck_15_box_413B000HD.jpg",
+        "alt": "Remington Ammo",
+        "texto": "9,99€"
+    },
+    { 
+    "id": 6,
+        "titulo": "Unreal Ammo",
+        "srcimg": "https://cdn1.epicgames.com/ue/product/Screenshot/AmmunitionPackageScreen06-1920x1080-9aaeaa291acb53e033260b4d77a0830b.jpg?resize=1&w=1920",
+        "alt": "Unreal Ammo",
+        "texto": "6,99€"
+    },
+    { 
+    "id": 7,
+        "titulo": "Nerf Ammo",
+        "srcimg": "https://laboutiquedestoons.com/37675-thickbox_default/nerf-ultra-ammunition-pack-de-20-dardos.jpg",
+        "alt": "Nerf Ammo",
+        "texto": "11,99€"
+    },
+    { 
+    "id": 8,
+        "titulo": "Fortscot Ammo",
+        "srcimg": "https://www.everest.com/media/catalog/product/cache/c3d40bf31ba67f923e2c9c526f53f9cb/f/o/fort_scott_package_ammo_deal.jpeg",
+        "alt": "Fortscot Ammo",
+        "texto": "10,99€"
+    },
+    { 
+    "id": 9,
+        "titulo": "Remington Ammo",
+        "srcimg": "https://www.remington.com/on/demandware.static/-/Sites-remington-master-catalog/default/dw63d86e2c/images/large/22%20Golden%20Bullet%2021250.jpg",
+        "alt": "Remington Ammo",
+        "texto": "8,99€"
+    }
+        
+]
